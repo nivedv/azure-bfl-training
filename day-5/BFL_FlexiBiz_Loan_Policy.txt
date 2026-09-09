@@ -1,0 +1,60 @@
+BFL FLEXIBIZ WORKING CAPITAL LOAN — PRODUCT POLICY DOCUMENT (SYNTHETIC / TRAINING USE ONLY)
+==============================================================================
+Note: This is a fictional product created for training purposes only. It does
+not represent an actual Bajaj Finserv product, rate, or policy.
+
+1. PRODUCT OVERVIEW
+   Product Name: BFL FlexiBiz Working Capital Loan
+   Category: Unsecured Business Loan
+   Issuing Entity (fictional): BFL Lending & Investments Group
+
+2. ELIGIBILITY CRITERIA
+   - Business vintage: minimum 3 years of continuous operation
+   - Minimum annual turnover: INR 40,00,000
+   - Applicant age: 25–60 years at loan origination
+   - Minimum credit bureau score: 700
+   - Business must be profit-making in at least 2 of the last 3 financial years
+
+3. LOAN TERMS
+   - Minimum loan tenure: 12 months
+   - Maximum loan tenure: 48 months
+   - Minimum loan amount: INR 5,00,000
+   - Maximum loan amount: INR 75,00,000 (unsecured)
+   - Loans above INR 75,00,000 require collateral and move to the Secured
+     Business Loan product (not covered in this document)
+
+4. INTEREST RATE STRUCTURE
+   - Rate type: Fixed for entire tenure
+   - Indicative rate range: 13.50% – 18.00% per annum, risk-based pricing
+   - Rate depends on business vintage, turnover stability, and bureau score
+
+5. FEES AND CHARGES
+   - Processing fee: 2.00% of loan amount + applicable taxes
+   - Prepayment charges: 4% of outstanding principal if foreclosed within 12
+     months of disbursement; 2% thereafter
+   - Late payment charge: 3% per month on overdue EMI amount
+   - Documentation and stamp duty charges: At actuals, as per state
+     regulations
+
+6. PREPAYMENT AND FORECLOSURE
+   - Part-prepayment not permitted in the first 6 months
+   - Part-prepayment thereafter capped at 20% of outstanding principal per
+     financial year
+   - Full foreclosure permitted after 12 months, subject to applicable
+     foreclosure charges described in Section 5
+
+7. DOCUMENTATION REQUIRED
+   - KYC documents for all partners / directors
+   - Business registration and GST certificate
+   - Last 3 years audited financial statements
+   - Last 12 months current account bank statements
+   - Existing loan repayment track record, if any
+
+8. SPECIAL CONDITIONS
+   - Top-up loan available after 12 months of clean repayment history,
+     subject to fresh eligibility check
+   - Seasonal businesses may request a customized repayment schedule
+     (bullet or step-down EMI), subject to credit committee approval
+   - This product does not offer a moratorium period
+
+END OF DOCUMENT

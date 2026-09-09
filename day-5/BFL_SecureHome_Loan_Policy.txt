@@ -1,0 +1,57 @@
+BFL SECUREHOME LOAN — PRODUCT POLICY DOCUMENT (SYNTHETIC / TRAINING USE ONLY)
+==============================================================================
+Note: This is a fictional product created for training purposes only. It does
+not represent an actual Bajaj Finserv product, rate, or policy.
+
+1. PRODUCT OVERVIEW
+   Product Name: BFL SecureHome Loan
+   Category: Retail Home Loan
+   Issuing Entity (fictional): BFL Housing Finance Group
+
+2. ELIGIBILITY CRITERIA
+   - Minimum applicant age: 23 years at loan origination
+   - Maximum applicant age at loan maturity: 65 years
+   - Minimum net monthly income: INR 45,000 (salaried) / INR 60,000 (self-employed)
+   - Minimum credit bureau score: 725
+   - Employment continuity: 2 years for salaried, 3 years for self-employed
+
+3. LOAN TERMS
+   - Minimum loan tenure: 5 years
+   - Maximum loan tenure: 25 years
+   - Minimum loan amount: INR 10,00,000
+   - Maximum loan amount: INR 5,00,00,000 (subject to property valuation and
+     income multiple caps)
+   - Loan-to-Value (LTV) ratio: up to 80% for loans below INR 30,00,000; up to
+     75% for loans between INR 30,00,001 and INR 75,00,000; up to 70% above
+     that threshold
+
+4. INTEREST RATE STRUCTURE
+   - Rate type: Floating, linked to BFL Reference Benchmark Rate (fictional)
+   - Indicative rate range: 8.35% – 9.90% per annum, risk-based pricing
+   - Rate reset frequency: Quarterly
+
+5. FEES AND CHARGES
+   - Processing fee: 0.50% of loan amount + applicable taxes (minimum INR
+     5,000, maximum INR 15,000)
+   - Prepayment charges: Nil for individual borrowers on floating-rate loans
+   - Late payment charge: 2% per month on overdue EMI amount
+   - Legal and technical valuation fee: At actuals, payable by borrower
+
+6. PREPAYMENT AND FORECLOSURE
+   - Part-prepayment allowed after 6 EMIs have been serviced
+   - Maximum part-prepayment per calendar year: 25% of outstanding principal
+   - Full foreclosure permitted any time after 12 months, subject to Nil
+     charges for individual floating-rate borrowers
+
+7. DOCUMENTATION REQUIRED
+   - KYC documents (identity and address proof)
+   - Income proof (salary slips / ITR as applicable)
+   - Property title documents and No Objection Certificate
+   - Bank statements for the last 6 months
+
+8. SPECIAL CONDITIONS
+   - Co-applicant income can be clubbed for eligibility computation
+   - Step-up repayment option available for applicants under 35 years of age
+   - Insurance bundling (fire and life) is optional, not mandatory
+
+END OF DOCUMENT
